@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The address to the King. The humble representation of the Lords and Commissioners of shires and burroughs of the kingdom of Scotland undersubscribers, and members of this current parliament now adjourned till the eighth of October next.</title>
+            <author>Scotland. Lords and commissioners of shires and boroughs.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92623</idno>
+            <idno type="STC">Wing S1364A</idno>
+            <idno type="STC">ESTC R231546</idno>
+            <idno type="EEBO-CITATION">99896836</idno>
+            <idno type="PROQUEST">99896836</idno>
+            <idno type="VID">137063</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92623)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137063)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2448:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The address to the King. The humble representation of the Lords and Commissioners of shires and burroughs of the kingdom of Scotland undersubscribers, and members of this current parliament now adjourned till the eighth of October next.</title>
+                  <author>Scotland. Lords and commissioners of shires and boroughs.</author>
+               </titleStmt>
+               <extent>6 [i.e. 4] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>1689?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Newberry Library, Chicago, Illinois.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland --  History --  1660-1688 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:137063:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 4 -->
+            <head>THE ADDRESS TO THE KING.</head>
+            <head type="sub">The Humble Repreſentation of the Lords and Commiſſioners of Shires and Burroughs of the Kingdom of <hi>Scotland,</hi> 
+               <g ref="char:V">Ʋ</g>nderſubſcribers, and Members of this Current Parliament now Adjourned till the Eighth of <hi>October</hi> next.</head>
+            <p>NOthing ſave the great and general Surpriſe of this long diſtreſſed and at preſent unſettled Kingdom, upon the late Adjournment of Your moſt <hi>Loyal Parliament</hi> for ſo long a time, and in ſo critical a ſeaſon, with the deep Concern of Your Royal Intereſt therein, could poſſibly have induced us to this ſo neceſſary a Petition. But the viſible Conſternation and Diſcouragement of thouſands of Your good Subjects, delayed in the Relief and Comfort which at this time they aſſuredly expected, with the Advantages that We apprehend Your Majeſties Enemies, both within and without the Kingdom, may think to reap by ſuch an Interruption, being our only Motives, We cannot, We dare not be ſilent. And therefore to prevent theſe evil Conſequences, We in the firſt place moſt Solemnly Pro<g ref="char:EOLhyphen"/>teſt and Declare, in the Preſence of God and Men, Our conſtant and invio<g ref="char:EOLhyphen"/>lable Fidelity and Adherence to Your Majeſties Royal Title, Right and Intereſt, ſo frankly and chearfully recognoſced by Us in this Current Parlia<g ref="char:EOLhyphen"/>ment, wiſhing and praying for nothing more under the Sun than Your long and proſperous Reign, as that wherein the Security of all our Lives and Liberties, and alſo of our Holy Religion, more dear to Us than both, is infallibly included. It was the perſuaſion we had of the Juſtice, as well as well as the Neceſſity, of Your Majeſties Heroic Undertaking for the Delivery of theſe Kingdoms, with the Conviction of the Divine Confir<g ref="char:EOLhyphen"/>mation that appeared in its glorious Succeſs, that moved moſt, if not all of Us, to endeavour and concur moſt heartily in the late Meeting of Eſtates, for the Advancement and Eſtabliſhment of Your Majeſty upon the Throne, when ſome diſcovered their Diſaffection, and were too open Retarders and Obſtructers of that good Deſign: And it is from the ſame true Affection and Zeal, that we do now moſt heartily make the above mentioned Pro<g ref="char:EOLhyphen"/>teſtation, to obviate all the Miſconſtructions Your Enemies may make in this Juncture.</p>
+            <p>Nor are we leſs aſſured of Your Majeſties moſt ſincere and gracious In<g ref="char:EOLhyphen"/>tentions, to perform for Us to the utmoſt, all that the Eſtates of the King<g ref="char:EOLhyphen"/>dom have either demanded, or repreſented as neceſſary and expedient for
+<pb n="4" facs="tcp:137063:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 5 -->
+ſecuring the Proteſtant Religion, reſtoring their Laws and Liberties, and redreſſing of their Grievances, according to Your Majeſties Declaration for this Kingdom. Neither can it be imagined, that ſo wiſe and juſt a King as Your Majeſty, will ever be perſwaded, that ſo Loyal a Parliament as this, can he induced either to wiſh or deſign any Prejudice to, or Diminu<g ref="char:EOLhyphen"/>tion of Your true Intereſt and Prerogative; but ſuch as have ſlaviſhly ſerved and flattered Arbitrary Power and Tyranny, will be always ſtudying for their own ſiniſter Ends, to ſtate a ſeparate Intereſt betwixt King and People, a Practice which we are confident your Majeſty abhors.</p>
+            <p>But that we may clear our ſelves upon this preſent occaſion to Your Ma<g ref="char:EOLhyphen"/>jeſties full ſatisfaction, and refuting of all Miſrepreſentations we can incur on any hand, we ſhall briefly rehearſe to Your Majeſty, the Votes paſs'd in this preſent Parliament, to which the Royal Aſſent is not given, with ſuch ſhort Reflections, as we hope may tend to the better Vindication of all con<g ref="char:EOLhyphen"/>cern'd.</p>
+            <p>The Firſt Act upon which the Vote of Parliament has paſs'd, is that, De<g ref="char:EOLhyphen"/>claring the Priviledge of the Eſtates of Parliament <hi>to Nominate and Appoint Committees,</hi> as they ſhall think fit; and excluding therefrom the Officers of State, unleſs they be choſen: And omitting what the Parliament hath al<g ref="char:EOLhyphen"/>ready repreſented to Your Majeſty as reaſons of their Vote; it is humbly conceived, that this Act is exactly framed to the extent of that Grievance, which together with the reſt, is deſired in the <hi>Inſtrument of Government,</hi> to be redreſſed unto us in Parliament.</p>
+            <p>The Second was an Act <hi>Abrogating</hi> the Act of Parliament 1669. aſſerting <hi>the King's Supremacy</hi> over all Perſons, and in all Cauſes Eccleſiaſtical; and this Act is ſo exactly conform to the Second Article of the abovementioned Grievances; and the foreſaid Act of Supremacy in it ſelf is ſo dangerous to the Proteſtant Religion, as well as inconſiſtent with the Eſtabliſhment of any Church-Government, that we doubt not Your Majeſty will ever ap<g ref="char:EOLhyphen"/>prove all that voted to it.</p>
+            <p>The Third, is an Act anent <hi>Perſons not to be employed in publick Truſts;</hi> and all the Ruins and Deſtreſſes of this Kingdom, have ſo certainly flowed fro the Perſons therein noted, eſpecially, ſuch as by their contriving of, and concurring in the Diſpenſing Power, have thereby eminently indangered our Religion, and overturned all the Fences of our Liberties and Properties (which we have good ground to believe the Parliament would have exten<g ref="char:EOLhyphen"/>ded but to few Perſons) And Your Majeſty in Your Declaration, hath ſo juſtly charged the ſame upon evil and wicked Counſellors (the only Perſons pointed at in this Act) that We are perſwaded that You will find it abſolut<g ref="char:EOLhyphen"/>ly neceſſary for attaining all the Ends of Your Majeſties glorious undertak<g ref="char:EOLhyphen"/>in for our Relief.</p>
+            <pb n="5" facs="tcp:137063:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 5 -->
+            <p>The Fourth is an Act concerning the <hi>Nomination of the ordinary Lords of Seſſion,</hi> and the <hi>Election of the Preſident,</hi> To wit, that in a total Vacation they by tryed, and admitted or rejected by Parliament, and in a particular Va<g ref="char:EOLhyphen"/>cation they be tryed aed admitted, or rejected by the other Lords: And that the Preſident be chooſen by the Lords themſelves, conform to our old Pra<g ref="char:EOLhyphen"/>ctique and expreſs Statute. And this Act is ſo agree able to Practique Laws and Acts of Parliament, and ſo neceſſar for the true and equal adminiſtra<g ref="char:EOLhyphen"/>tion of Juſtice (the great ſecurity of all Kingdoms) that Your Majeſty will unqueſtionably approve it.</p>
+            <p>The Fifth and laſt is an Act Ordaining the <hi>Presbyterian Miniſters yet alive,</hi> who were thruſt out ſince the Firſt of <hi>January</hi> 1661, for not Conforming to Prelacy, and not complying with the Courſes of the Time, to be <hi>reſtored.</hi> And this Act is in it ſelf ſo juſt and ſo conſequential from the Claim of Right, and agreeable to Your Majeſties Declaration, that leſs in common Equity could not be done. And here Your Majeſty may be pleaſed to con<g ref="char:EOLhyphen"/>ſider, That tho Prelacy be now by Law aboliſhed, yet theſe few Miniſters not exceeding Sixty (tho reſtored, as they are not, for want of the Royal Aſſent to the foreſaid Act, would be all the Presbyterian Miniſters le<g ref="char:EOLhyphen"/>gally eſtabliſhed and provided for in <hi>Scotland.</hi>
+            </p>
+            <p>It is not unknown to Your Majeſty what have been the ſad Confuſions and Diſorders of this diſtreſſed Country under Prelacy, and for want of its an<g ref="char:EOLhyphen"/>cient Presbyterian Government; and now the whole <hi>Weſt,,</hi> and many o<g ref="char:EOLhyphen"/>ther Parts of <hi>Scotland,</hi> are at preſent deſolate and deſtitute, having only Mi<g ref="char:EOLhyphen"/>niſters called by the People upon the late Liberty, without any Benefice or Living, or convenient place to Preach in. It is alſo certain, that there are many Hundreds of forefaulted and fined Perſons who are yet waiting to be reſtored and refounded, according to the Claim of Right, and Your Ma<g ref="char:EOLhyphen"/>jeſties gracious Inſtructions thereanent.</p>
+            <p>It is true, the laſt Thing propoſed by Your Majeſties Commiſſioner in Parliament, was a Supply of Money for Maintenance of the Forces ſo neceſ<g ref="char:EOLhyphen"/>ſary for our preſent Defence; and We ſhould have proven our ſelves ungrateful to Your Majeſty, and falſe to our own Intereſt and Security, if We had abſolutely refuſed it: but there being a ſufficient and certain Food to main<g ref="char:EOLhyphen"/>tain all the Forces, and ſupport all other incident Charges of the Govern<g ref="char:EOLhyphen"/>ment for ſome Months; all that we demanded was, That ſome things vi<g ref="char:EOLhyphen"/>ſibly neceſſar for Satisfaction of the Country, and the better enabling and and diſpoſing them to pay the ſaid Supply, might be firſt expeded. We are confident that the Vote of Parliament, which was only for a ſhort De<g ref="char:EOLhyphen"/>lay, will not give your Majeſty the leaſt ground of Offence.</p>
+            <p>And now having preſumed to lay theſe Things before Your Majeſty with all humble Submiſſion, purely out of Duty for preventing the evil Con<g ref="char:EOLhyphen"/>ſtructions of Your Majeſties Enemies, and for our own juſt Vindication;
+<pb n="6" facs="tcp:137063:3" rendition="simple:additions"/>
+               <!-- PDF PAGE 6 -->
+We humbly beſeech Your Sacred Majeſty graciouſly to conſider what is here repreſented; and in Proſecution of Your Majeſties Acceptance of the Claim of Right, and Your Declaration emitted for this Kingdom, to take ſuch Courſes as You in Your Royal Wiſdom ſhall think fit, for Paſſing the foreſaid Acts of Parliament, and redreſſing all our other Grievances. And We Your Majeſties moſt humble Petitioners and faithful Subjects, ſhall, as in Duty bound, ever Pray for Your long and proſperous Reign ever Us<g ref="char:punc">▪</g>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
